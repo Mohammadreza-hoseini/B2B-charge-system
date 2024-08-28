@@ -1,0 +1,5 @@
+config .env file -> done
+
+config swagger and redoc -> done
+
+config log on django
